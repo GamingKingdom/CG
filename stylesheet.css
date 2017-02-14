@@ -2,9 +2,7 @@
 body
 {
 background-image: url(brick.jpg);
-background-repeat: repeat-x;
-background-position-x: center;
-background-postion-y: top;
+background-repeat: repeat;
 background-attachment: fixed;
 background-color: #cccccc;
 margin-top: 0px;
