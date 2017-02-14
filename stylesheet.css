@@ -1,1 +1,14 @@
 
+body
+{
+background-image: url(../images/mainbg_tile.jpg);
+background-repeat: repeat-x;
+background-position-x: center;
+background-postion-y: top;
+background-attachment: fixed;
+background-color: #cccccc;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+}
